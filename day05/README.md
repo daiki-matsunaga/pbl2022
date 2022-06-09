@@ -8,3 +8,4 @@
 ***
 
 - foliumのサンプルコード [URL](https://colab.research.google.com/github/daiki-matsunaga/pbl2022/blob/main/day05/foliumSample.ipynb "link") 
+- foliumのサンプルコード2 [URL](https://colab.research.google.com/github/daiki-matsunaga/pbl2022/blob/main/day05/foliumSample2.ipynb "link") 
